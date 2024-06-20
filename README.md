@@ -1,6 +1,3 @@
-Here is the complete README file in Markdown format:
-
-```markdown
 # Snake Game
 
 A classic Snake game built using Python's `turtle` module. Control the snake to eat food, grow longer, and avoid colliding with the walls or itself.
