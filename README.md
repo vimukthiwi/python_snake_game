@@ -24,7 +24,7 @@ A classic Snake game built using Python's `turtle` module. Control the snake to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/vimukthiwi/snake-game.git
     ```
 2. Navigate to the project directory:
     ```bash
